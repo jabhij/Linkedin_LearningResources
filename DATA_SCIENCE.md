@@ -9,11 +9,10 @@ Data Science Roadmap- https://www.linkedin.com/feed/update/urn:li:activity:69515
 <br/>
 <br/>
 
-📍 For example : &nbsp; 
+Elsewhere : &nbsp; 
 <a href="https://www.linkedin.com/in/jabhij/" target="_blank"> 
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
+</a> &nbsp; 
 <a href="https://twitter.com/jabhij" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>  
