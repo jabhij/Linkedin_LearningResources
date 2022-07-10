@@ -13,7 +13,7 @@ Elsewhere-
 
 <br/>
 <br/>
-((https://www.linkedin.com/in/jabhij/)
-(<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />))
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> [jabhij](https://www.linkedin.com/in/jabhij/)
 <br/>
 <br/>
