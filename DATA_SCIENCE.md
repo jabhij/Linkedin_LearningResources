@@ -20,5 +20,4 @@ Tech Stack : &nbsp;
 <img src="https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270" data-canonical-src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"  width="50" height="50">
 
 <img 
-src="https://giphy.com/embed/KAq5w47R9rmTuvWOWa" width="50" height="50">
-<iframe src="https://giphy.com/embed/KAq5w47R9rmTuvWOWa" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/devrock-python-django-edr-KAq5w47R9rmTuvWOWa">via GIPHY</a></p>
+src="https://giphy.com/embed/KAq5w47R9rmTuvWOWa" data-canonical-src="https://giphy.com/gifs/devrock-python-django-edr-KAq5w47R9rmTuvWOWa" width="50" height="50">
