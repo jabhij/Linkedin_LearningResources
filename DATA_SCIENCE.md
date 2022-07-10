@@ -14,7 +14,7 @@ Elsewhere-
 <br/>
 <br/>
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" & url="https://www.linkedin.com/in/jabhij/" /> 
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/jabhij/" /> 
 [jabhij](https://www.linkedin.com/in/jabhij/) 
 <br/>
 <br/>
