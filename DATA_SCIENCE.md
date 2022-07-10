@@ -4,4 +4,4 @@ Data Science Roadmap- https://www.linkedin.com/feed/update/urn:li:activity:69515
 
 
 Elsewhere-
-<img source="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+[https://www.linkedin.com/in/jabhij/](<img source="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">)
