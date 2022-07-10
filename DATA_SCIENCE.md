@@ -5,8 +5,6 @@ Data Science Roadmap- https://www.linkedin.com/feed/update/urn:li:activity:69515
 
 <br/>
 <br/>
-Elsewhere-
-[https://www.linkedin.com/in/jabhij/] (LinkedIn)
 <img source="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 <br/>
 <br/>
@@ -15,6 +13,7 @@ Elsewhere-
 
 <br/>
 <br/>
-<img source="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> 
+<img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"> 
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> 
 <br/>
 <br/>
